@@ -1,8 +1,8 @@
 {
     "logins": [
     { "username": "serkan", "password": "1234", "result": "OK" },
-    { "username": "sekomod", "title": "12345", "result": "OK" },
-    { "username": "dilek", "title": "123456", "result": "OK" },
+    { "username": "sekomod", "password": "12345", "result": "OK" },
+    { "username": "dilek", "password": "123456", "result": "OK" },
   ],
 
   "posts": [
