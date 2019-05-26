@@ -1,8 +1,8 @@
 {
     "logins": [
-    { "id": 1, "password": "1234", "result": "OK" },
-    { "id": 2, "password": "12345", "result": "OK" },
-    { "id": 3, "password": "123456", "result": "OK" }
+    { "id": 1, "postId": 1, "result": "OK" },
+    { "id": 2, "postId": 2, "result": "OK" },
+    { "id": 3, "postId": 3, "result": "OK" }
   ],
 
   "posts": [
