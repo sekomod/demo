@@ -33,10 +33,5 @@
     { "id": 13, "name": "Ahmet", "surname":"Batı", "photo":"https://picsum.photos/200", "birthdate":"27/09/1945", "phone":"05443219900", "address":"Gönen/ISPARTA" },
     { "id": 14, "name": "Tuğba", "surname":"Saatçi", "photo":"https://picsum.photos/200", "birthdate":"29/05/1954", "phone":"05418182233", "address":"Körfez/KOCAELİ" },
     { "id": 15, "name": "Ömer", "surname":"Güner", "photo":"https://picsum.photos/200", "birthdate":"18/01/1991", "phone":"05373901892", "address":"Güzelbahçe/İZMİR" }
-  ],
-  
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
   ]
 }
